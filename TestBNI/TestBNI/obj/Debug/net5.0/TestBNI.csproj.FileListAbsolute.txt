@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\TestBNI\TestBNI\bin\Debug\net5.0\TestBNI.exe
+C:\Users\USER\source\repos\TestBNI\TestBNI\bin\Debug\net5.0\TestBNI.deps.json
+C:\Users\USER\source\repos\TestBNI\TestBNI\bin\Debug\net5.0\TestBNI.runtimeconfig.json
+C:\Users\USER\source\repos\TestBNI\TestBNI\bin\Debug\net5.0\TestBNI.runtimeconfig.dev.json
+C:\Users\USER\source\repos\TestBNI\TestBNI\bin\Debug\net5.0\TestBNI.dll
+C:\Users\USER\source\repos\TestBNI\TestBNI\bin\Debug\net5.0\ref\TestBNI.dll
+C:\Users\USER\source\repos\TestBNI\TestBNI\bin\Debug\net5.0\TestBNI.pdb
+C:\Users\USER\source\repos\TestBNI\TestBNI\obj\Debug\net5.0\TestBNI.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TestBNI\TestBNI\obj\Debug\net5.0\TestBNI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\TestBNI\TestBNI\obj\Debug\net5.0\TestBNI.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\TestBNI\TestBNI\obj\Debug\net5.0\TestBNI.AssemblyInfo.cs
+C:\Users\USER\source\repos\TestBNI\TestBNI\obj\Debug\net5.0\TestBNI.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TestBNI\TestBNI\obj\Debug\net5.0\TestBNI.dll
+C:\Users\USER\source\repos\TestBNI\TestBNI\obj\Debug\net5.0\ref\TestBNI.dll
+C:\Users\USER\source\repos\TestBNI\TestBNI\obj\Debug\net5.0\TestBNI.pdb
+C:\Users\USER\source\repos\TestBNI\TestBNI\obj\Debug\net5.0\TestBNI.genruntimeconfig.cache
